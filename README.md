@@ -1,9 +1,8 @@
-Neural Sound Field Reconstruction<!-- omit in toc -->
+Neural Sound Field Reconstruction
 This repository contains the code (in PyTorch) for reconstructing 3D sound fields using deep implicit representations. Our work builds upon the framework introduced in the following paper:
-ImplicitVol: Sensorless 3D Ultrasound Reconstruction with Deep Implicit Representation
-[Paper] [Project Page]
+ImplicitVol: Sensorless 3D Ultrasound Reconstruction with Deep Implicit Representation [Project Page]
 We have modified and extended the original codebase to adapt it for sound field reconstruction using simulated data from a unity-based simulator. The original codebase can be found at ImplicitVol GitHub Repository.
-Contents<!-- omit in toc -->
+Contents
 
 Dependencies
 Getting Started with Rubik's Cube Simulated Data
