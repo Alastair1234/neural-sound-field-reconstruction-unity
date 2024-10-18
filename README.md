@@ -1,13 +1,13 @@
-Neural Sound Field Reconstruction
+# Neural Sound Field Reconstruction
 This repository contains the code (in PyTorch) for reconstructing 3D sound fields using deep implicit representations. Our work builds upon the framework introduced in the following paper:
 ImplicitVol: Sensorless 3D Ultrasound Reconstruction with Deep Implicit Representation [Project Page]
 We have modified and extended the original codebase to adapt it for sound field reconstruction using simulated data from a unity-based simulator. The original codebase can be found at ImplicitVol GitHub Repository.
 Contents
 
-Dependencies
+# Dependencies
 Getting Started with Rubik's Cube Simulated Data
 
-Dependencies
+# Dependencies
 
 Python (3.7), other versions should also work
 PyTorch (1.12), other versions should also work
@@ -15,7 +15,7 @@ scipy
 skimage
 nibabel
 
-Getting Started with Rubik's Cube Simulated Data
+# Getting Started with Rubik's Cube Simulated Data
 
 Ensure that the Rubik's Cube simulated data is located in the example/RubiksCubeInSphere directory.
 Open the train_unity.py file and modify the DATA_DIR variable to point to the location of the Rubik's Cube data on your system:
