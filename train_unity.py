@@ -153,7 +153,7 @@ def main():
     POSITIONAL_ENCODING_INCLUDE_INPUT = True
     DIRECTIONAL_ENCODING_LEVEL = 4
     DIRECTIONAL_ENCODING_INCLUDE_INPUT = True
-    DATA_DIR = 'C:\\Users\\alast\\Documents\\GitHub\\neural_sound_field\\example\\RubiksCubeInSphere'
+    DATA_DIR = './example/RubiksCubeInSphere'
     LOG_PARENT_DIR = './logs'
     EVAL_SAVE_WEIGHTS = True
     EVAL_SAVE_VISUALS = True
